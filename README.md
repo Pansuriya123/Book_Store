@@ -1,1 +1,1 @@
-# Book_Store
+Mini project of Book Store
